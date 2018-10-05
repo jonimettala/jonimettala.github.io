@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Moikka maailma!"
-date:   2018-10-05 14:42:11 +0300
+date:   2018-10-05 14:44:40 +0300
 categories: opiskelu jekyll git
 ---
-Elin vuosia siinä ajatuksessa, että Jekyll olisi jotenkin vaikeasti asennettava ja ylläpidettävä systeemi. Pakotin itseni perehtymään aiheeseen vähän paremmin, kun valitsin erään kurssini pakolliseksi raportiksi kirjoittaa Jekyllista. Nyt tämän pakottamana ja innoittamana viimeinkin olen Jekyllin äärellä.
+Elin vuosia siinä ajatuksessa, että [Jekyll](https://jekyllrb.com/) olisi jotenkin vaikeasti asennettava ja ylläpidettävä systeemi. Pakotin itseni perehtymään aiheeseen vähän paremmin, kun valitsin erään kurssini pakolliseksi raportiksi kirjoittaa Jekyllista. Nyt tämän pakottamana ja innoittamana viimeinkin olen Jekyllin äärellä.
 
 Eikä se niin vaikeaa ollut. En tiedä, mikä tässä on kestänyt. Ehkä kuvittelin, että joutuisin aina koneella ajamaan jonkin scriptin päivittääkseni sivua. Mutta ei tässä ole mitään sellaista.
 
