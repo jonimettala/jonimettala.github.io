@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Liika kiva ei ole kivaa"
+title:  "Tietokoneella istuminen tarvitsee fyysistä vastapainoa"
 date:   2018-10-07 14:47:57 +0300
 categories: opiskelu elämä
 ---
